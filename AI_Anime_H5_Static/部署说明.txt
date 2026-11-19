@@ -1,0 +1,8 @@
+《热搜之外》四幕完整版 H5 部署说明
+
+1. 解压 AI_Anime_H5_Static.zip。
+2. 上传解压后的整个文件夹内容到静态网站托管平台。
+3. 确认 index.html、style.css、app.js 和 assets 文件夹处于同一网站根目录。
+4. 部署完成后，复制平台生成的网址，即可在手机 Safari、Chrome 或微信外部浏览器打开。
+
+注意：不要只上传 index.html；style.css、app.js 和 assets 文件夹需要一起上传。
